@@ -488,5 +488,19 @@
             "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-evolution-x-2-2-t3976463"
          }
       ]
+   },
+   {
+      "name": "Redmi 4/4X",
+      "brand": "Xiaomi",
+      "codename": "santoni",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "Ten",
+            "maintainer_name": "Nagarajan GK",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=6525946",
+            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/how-to/rom-evolution-x-2-0-redmi-4-4x-t3944061"
+         }
+      ]
    }
 ]
